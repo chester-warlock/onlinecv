@@ -672,7 +672,7 @@ li{
 	margin: 0 0 0 auto;
 }
 .timeline .date::before{
-	left: -19rem;
+	left: -17rem;
 
 }
 .timeline .date::after{
